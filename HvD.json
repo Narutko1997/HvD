@@ -1,7 +1,7 @@
 {
     "room":                             "Hudba všeho Druhu CZ/SK/EN",
-    "author":                                  "Narutko",
-    "icon":                                      null,
+    "author":                                 "Narutko1997",
+    "icon":                "https://rawgit.com/Narutko1997/HvD/master/HvD.css",
     "css":      "",
     "rules": {
         "allowAutorespond": true,
