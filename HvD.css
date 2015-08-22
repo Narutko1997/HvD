@@ -485,3 +485,204 @@ communities .grid .cell {
  background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%) !important;
  border-radius: 30px;
 } 
+.available  .thumb.medium, .available  .thumb.large {
+ border: 2px solid #599d24;
+ box-shadow: 0 0 10px 5px #599d24;
+}
+#user-rollover .meta.available .status i {
+ border: 2px solid #599d24;
+ box-shadow: 0 0 10px 5px #599d24;
+}
+.available  .thumb.small {
+ border: 2px solid #599d24;
+}
+#footer-user .menu.status .item.available i {
+ border: 2px solid #599d24;
+ box-shadow: 0 0 10px 5px #599d24;
+}
+#user-rollover .meta.available .status span {
+ color: #599d24;
+}
+#user-rollover .meta.available {
+ background: linear-gradient(to bottom,rgba(76, 122, 50, 0.7) 0,rgba(28, 31, 37, 1) 100%);
+ opacity: .85;
+}
+.gaming .thumb.medium, .gaming .thumb.large  {
+ border: 2px solid #0088cb;
+ box-shadow: 0 0 10px 5px #0088cb;
+} 
+.gaming .thumb.small {
+ border: 2px solid #0088cb;
+}
+#user-rollover .meta.gaming .status i {
+ border: 2px solid #0088cb;
+ box-shadow: 0 0 10px 5px #0088cb;
+}
+#user-rollover .meta.gaming .status span {
+ color: #0088cb;
+}
+#footer-user .menu.status .item.gaming i {
+ border: 2px solid #0088cb;
+ box-shadow: 0 0 10px 5px #0088cb;
+}
+#user-rollover .meta.gaming {
+ background: linear-gradient(to bottom,rgba(0,0,128, 0.4) 0,rgba(28, 31, 37, 1) 100%);
+ opacity: .85;
+}
+.working .thumb.large, .working .thumb.medium {
+ border: 2px solid #e52d2d;
+ box-shadow: 0 0 10px 5px #e52d2d;
+}
+.working .thumb.small {
+ border: 2px solid #ff3232;
+}
+#user-rollover .meta.working .status i {
+ border: 2px solid #e52d2d;
+ box-shadow: 0 0 10px 5px #e52d2d;
+}
+#user-rollover .meta.working .status span {
+ color: #e52d2d;
+}
+#footer-user .menu.status .item.working i {
+ border: 2px solid #ff3232;
+ box-shadow: 0 0 10px 5px #ff3232;
+}
+#user-rollover .meta.working {
+ background: linear-gradient(to bottom,rgba(132, 41, 25, 0.7) 0,rgba(28, 31, 37, 1) 100%);
+ opacity: .85;
+}
+.away .thumb.large, .away .thumb.medium {
+ border: 2px solid #b29600; box-shadow: 0 0 10px 5px #b29600;
+}
+.away .thumb.small {
+ border: 2px solid #b29600;
+}
+.thumb .background {
+ background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important;
+ border-radius: 30px;
+}
+#user-rollover .meta.away .status i {
+ border: 2px solid #b29600;
+ box-shadow: 0 0 10px 5px #b29600;
+}
+#footer-user .menu.status .item.away i {
+ border: 2px solid #b29600;
+ box-shadow: 0 0 10px 5px #b29600;
+}
+#user-rollover .meta.away {
+ background: linear-gradient(to bottom,rgba(109, 92, 40, 0.5) 0,rgba(28, 31, 37, 1) 100%);
+ opacity: .85;
+}
+#footer-user .menu {
+ background-color: rgba(0,0,0,0.85) !important;
+}
+#user-rollover .meta .joined {
+ color: #eee;
+}
+#playback-controls .button.snooze {
+ background: linear-gradient(to bottom,rgba(68, 68, 68, 0) 0,rgba(180, 71, 216, 0.73) 100%) !important;
+ box-shadow: 0 0 10px #C41EC3 !important;
+}
+#playback-controls .button.refresh {
+ background: linear-gradient(to bottom,rgba(68, 68, 68, 0) 0,rgba(0, 181, 230, 1) 100%);
+ box-shadow: 0 0 15px #12A9E0 !important;
+}
+#playback-controls .button.hd {
+ background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
+ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;
+}
+#playback .background {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ visibility: hidden;
+}
+#search-bar,
+#user-lists .list-header .input-background,
+.app-right .friends .list-header .input-background,
+#user-friends .search,
+#filter-bar {
+ border: 2px solid #F70000;
+}
+.thumb {
+ border: 2px solid #F70000;
+ border-radius: 50%;
+}
+#user-settings .container .cap .slider .circle {
+ top: 3px;
+}
+#volume .slider .circle {
+ top: 3px;
+}  
+#chat .mention.is-dj, 
+#chat .mention.is-staff {
+ background: linear-gradient(135deg,#F70000 0,#000000 13%,#0a0a0a 100%) !important;
+}
+#meh,
+#grab {
+ margin-left: -1px;
+} 
+.focused {
+ box-shadow: inset 0 0 0 0.1em #F70000 !important; 
+ .icon { 
+ background-image: url('http://s7.postimg.org/sbpinserv/m_EHKy_SY.png');
+}
+#your-active-playlist > .icon-check-purple{
+ background: url('http://s16.postimg.org/y0ylvumyp/B9_ELb7o.png') !important;
+ top: 15px;
+}
+#user-menu .item > .icon-history-white {
+ background: url('http://s18.postimg.org/xc6xgkv05/Ed_Pg_Ewe.png') !important;
+ top: 12px;
+}
+#footer-user .item > .icon-history-white {
+ background: url('http://s18.postimg.org/xc6xgkv05/Ed_Pg_Ewe.png') !important;
+ top: 12px;
+} 
+#dashboard .icon-grab {  
+ background: url('http://s10.postimg.org/z5x7l64zp/P9bk2k_O.png');
+}
+#woot i {
+ background: url('http://i.imgur.com/D1QGU5r.png'); 
+}
+#meh i {
+ background: url('http://i.imgur.com/K4M0TB9.png');
+}
+#grab i {
+ background: url('http://i.imgur.com/FetyqVD.png');
+}
+#vote .crowd-response .top i {
+ position: relative;
+ display: inline-block;
+ margin: 0 -1px 0 -1px;
+ top: 7px;
+ background-repeat: no-repeat;
+}
+#vote .crowd-response .top .label {
+ position: relative;
+ display: inline-block;
+ top: -6px;
+ margin-left: -5px;
+}
+#dashboard .icon-grab {  
+ background: url('http://s24.postimg.org/s5dzsi469/h_G50j_NO.png');
+}
+/* odznaky, ikonky a atď. */
+/* Uchylak-borik69 */
+#chat [data-cid^="4105504-"] .bdg {
+ background: url('http://i.imgur.com/w1EhwcY.png') !important;
+ background-position: 0px 0px;
+}
+/* Narutko */
+#chat [data-cid^="6971756-"] .bdg {
+ background: url('http://i.imgur.com/buQL2Ap.jpg') !important;
+ background-position: 0px 0px;
+}
+/* deadgirl */
+#chat [data-cid^="10541670-"] .bdg {
+ background: url('http://i.imgur.com/4EL6mzB.jpg') !important;
+ background-position: 0px 0px;
+}
+/* manažéri */ 
