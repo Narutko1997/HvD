@@ -1,0 +1,43 @@
+{
+    "room":                             "Hudba všeho Druhu CZ/SK/EN",
+    "author":                                 "Narutko",
+    "icon":                                     null,
+    "css":      "",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin":                                 null,
+        "ambassador":                            null,
+        "host":                                  null,
+        "cohost":                                null,                 
+        "manager":                               null,
+        "bouncer":                               null,
+        "rdj":                                   null,
+        "subscriber":                            null,
+        "friend":                                null,
+        "user":                                  null
+    },
+    "images": {
+        "background":               "http://i.imgur.com/DKoezxy.jpg",
+        "playback":                 null,
+        "admin":                    "http://i.imgur.com/amTOIox.png",
+        "ambassador":               "http://i.imgur.com/MjSVGdV.png",
+        "host":                     "http://i.imgur.com/MFRzqoo.png",
+        "cohost":                   "http://i.imgur.com/MFRzqoo.png",
+        "manager":                  "http://i.imgur.com/sIRKRuj.png",
+        "bouncer":                  "http://i.imgur.com/y7yIr2d.png",
+        "rdj":                      "http://i.imgur.com/XxoO1O5.png",
+        "subscriber":               "http://i.imgur.com/pJzx81B.png"
+    },
+    "emotes": {
+    	"emote_name":               "http://i.imgur.com/Q58JU2t.gif"
+    }
+}
